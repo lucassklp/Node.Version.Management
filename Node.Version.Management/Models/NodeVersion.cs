@@ -2,21 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Node.Version.Management
+namespace Node.Version.Management.Models
 {
-    public static class NodeVersionExtension
-    {
-        public static string AsString(this NodeVersion version)
-        {
-            return version.ToString().Replace('_', '.');
-        }
-
-        public static NodeVersion? GetVersion(this string version)
-        {
-            return Enum.Parse(typeof(NodeVersion), version.Replace('.', '_')) as NodeVersion?;
-        }
-    }
-
     public enum NodeVersion
     {
         v0_1_100,

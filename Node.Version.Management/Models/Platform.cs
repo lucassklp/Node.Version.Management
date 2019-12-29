@@ -1,4 +1,4 @@
-﻿namespace Node.Version.Management
+﻿namespace Node.Version.Management.Models
 {
     public enum Platform
     {

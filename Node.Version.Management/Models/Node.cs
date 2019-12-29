@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Node.Version.Management
+namespace Node.Version.Management.Models
 {
     public class Node
     {

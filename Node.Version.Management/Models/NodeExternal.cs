@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Node.Version.Management.Extensions;
 
-namespace Node.Version.Management.Maps
+namespace Node.Version.Management.Models
 {
     public class NodeExternal : Node
     {
