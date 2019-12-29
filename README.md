@@ -1,8 +1,8 @@
 # Node.Version.Management
 
-A multi-plataform node version management tool
+A multi-plataform node version management tool.
 
-Note: This project is under development. The current version is just a Proof of Concept, but a stable version is coming.
+Note: This project is under development. The current version is just a Proof of Concept and is working only on windows, but a stable version is coming.
 
 ## Requirements
 
