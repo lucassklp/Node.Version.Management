@@ -32,10 +32,18 @@ Use the latest version:
 Node.Version.Management --use latest
 ```
 
+Or specify a version:
+
+```bash
+Node.Version.Management --use 10.18.0
+```
+
 List available local versions:
 
 ```bash
 Node.Version.Management --list
 ```
+
+
 
 Note: Commands are under development. This is how the tool will be working on stable version.
